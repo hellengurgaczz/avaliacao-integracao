@@ -1,0 +1,6 @@
+* Instalar express, nodemon
+
+npm i --save-dev <pacote>
+
+Rodar 
+cd src > nodemon server.js
